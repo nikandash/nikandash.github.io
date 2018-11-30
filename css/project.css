@@ -7,7 +7,7 @@
 }
 article#aboutUs.active, article#aboutUs.close, article#aboutUs.close:before,  #main> article#aboutUs{
     width: inherit;
-    background-color: #006600;
+    /*background-color: #006600;*/
     /*max-width: inherit;*/
 }
 .image:before{
@@ -62,4 +62,17 @@ ul {
 
 #header{
     background-image: none;
+}
+
+.engagement-story {
+    font-size: 1.25em;
+    padding: 0.45rem;
+}
+
+#footer .copyright {
+    display: none;
+}
+
+.limit-height {
+    max-height: 20em;
 }
