@@ -76,3 +76,7 @@ ul {
 .limit-height {
     max-height: 20em;
 }
+
+.pure-img-responsive {
+    max-height: 20em;
+}
