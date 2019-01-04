@@ -80,3 +80,22 @@ ul {
 .pure-img-responsive {
     max-height: 30em;
 }
+
+.title {
+    padding: 0.45rem;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
+
+}
+.event {
+    padding-left: 0.50rem;
+    padding-bottom: 0.25rem;
+    font-size: 20px;
+}
+
+.description {
+    padding-left: 2rem;
+    padding-bottom: 0.25rem;
+    font-size: 18px;
+}
